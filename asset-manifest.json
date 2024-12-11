@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/proj_fit_new/static/css/main.233c9113.css",
+    "main.js": "/proj_fit_new/static/js/main.938fb0fa.js",
+    "static/media/circuit-workout-in.sdzvmjf6zikx..jpg": "/proj_fit_new/static/media/circuit-workout-in.sdzvmjf6zikx..2c74c3759edc734c4c40.jpg",
+    "static/media/6332252475.jpg": "/proj_fit_new/static/media/6332252475.31b76e207340e034d7b1.jpg",
+    "static/media/6287994019.jpg": "/proj_fit_new/static/media/6287994019.fed3dec87ef090b37c4c.jpg",
+    "static/media/photo_2023-06-01_20-05-14.jpg": "/proj_fit_new/static/media/photo_2023-06-01_20-05-14.8b169ad26b20243d45ed.jpg",
+    "static/media/65-re1.jpg": "/proj_fit_new/static/media/65-re1.215aa2527a68554e0d2a.jpg",
+    "static/media/photo_2024-07-10_18-46-59.jpg": "/proj_fit_new/static/media/photo_2024-07-10_18-46-59.506ee8eb2745ec8383c2.jpg",
+    "static/media/photo_2024-07-12_22-49-03.jpg": "/proj_fit_new/static/media/photo_2024-07-12_22-49-03.9c371c5343d0dd6fbf55.jpg",
+    "static/media/photo_2024-07-09_23-30-16.jpg": "/proj_fit_new/static/media/photo_2024-07-09_23-30-16.2d071891b9601d8e40a1.jpg",
+    "index.html": "/proj_fit_new/index.html",
+    "main.233c9113.css.map": "/proj_fit_new/static/css/main.233c9113.css.map",
+    "main.938fb0fa.js.map": "/proj_fit_new/static/js/main.938fb0fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.233c9113.css",
+    "static/js/main.938fb0fa.js"
+  ]
+}
